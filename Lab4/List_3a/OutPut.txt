@@ -1,0 +1,10 @@
+$`integer number`
+[1] 10 20 30
+
+
+$string
+[1] "air"   "fire"  "water"
+
+
+$`numeric Number`
+[1] 23  3 44  5 89  0

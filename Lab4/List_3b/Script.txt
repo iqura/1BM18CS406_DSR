@@ -1,0 +1,17 @@
+mbee=matrix(data=c(1,12,2,13,3,14,4,15,5,16,6,17,7,18,8,19,20,9,10,34,45,54,32,21,22),,nrow=5,ncol=5)
+
+mbee
+names=list("thistle","sunflower","glodengill","gllory","berry")
+
+pframes=as.data.frame(names)
+
+str(pframes)
+
+pmatrix=as.matrix(pframes)
+
+str(pmatrix)
+
+rownames(mbee)=pmatrix
+mbee
+
+class(mbee)

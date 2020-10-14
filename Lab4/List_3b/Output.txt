@@ -1,0 +1,35 @@
+          [,1] [,2] [,3] [,4] [,5]  
+    
+[1,]    1    14    6   19   45
+[2,]  12    4   17   20   54
+[3,]   2   15    7    9   32
+[4,]  13    5   18   10   21
+[5,]   3   16    8   34   22
+
+
+'data.frame':	1 obs. of  5 variables:
+ 
+$ X.thistle.   : Factor w/ 1 level "thistle": 1
+ 
+$ X.sunflower. : Factor w/ 1 level "sunflower": 1
+ 
+$ X.glodengill.: Factor w/ 1 level "glodengill": 1
+ 
+$ X.gllory.    : Factor w/ 1 level "gllory": 1
+ 
+$ X.berry.     : Factor w/ 1 level "berry": 1
+ chr [1, 1:5] "thistle" "sunflower" "glodengill" "gllory" "berry"
+ - attr(*, "dimnames")=List of 2
+  
+..$ : NULL
+  
+..$ : chr [1:5] "X.thistle." "X.sunflower." "X.glodengill." "X.gllory." ...
+                      [,1] [,2] [,3] [,4] [,5]  
+    
+thistle            1    14    6   19   45
+sunflower    12    4   17   20   54
+glodengill    2   15    7    9   32
+gllory         13    5   18   10   21
+[1] "matrix"
+berry          3   16    8   34   22
+
